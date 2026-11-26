@@ -26,7 +26,7 @@ Column descriptions for each file are on its dataset page at [englishcue.app/dat
 
 ## Live API and MCP server
 
-The same data can be queried live through the free [EnglishCue REST API and MCP server](https://englishcue.app/english-tools/mcp-server) (`https://englishcue.app/mcp`), for apps and AI assistants.
+The same data can be queried live through the free [EnglishCue REST API and MCP server](https://englishcue.app/english-tools/mcp-server) (`https://englishcue.app/mcp`), for apps and AI assistants. Server source: [agnremote-code/englishcue-mcp](https://github.com/agnremote-code/englishcue-mcp).
 
 ## License
 
