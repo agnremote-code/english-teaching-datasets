@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them as below."
+title: "English teaching datasets"
+type: dataset
+authors:
+  - name: "EnglishCue"
+    website: "https://englishcue.app"
+url: "https://englishcue.app/datasets"
+repository-code: "https://github.com/agnremote-code/english-teaching-datasets"
+license: CC-BY-4.0
+date-released: "2026-11-26"
+keywords:
+  - English language teaching
+  - ESL
+  - EFL
+  - idioms
+  - phrasal verbs
+  - collocations
+  - irregular verbs
+  - vocabulary
+  - CEFR
